@@ -1,0 +1,17 @@
+{
+    "name": "dumahx/mepr-age-verification",
+    "description": "Restrict member signup based on the member's age.",
+    "type": "wp-plugin",
+    "autoload": {
+        "psr-4": {
+            "DumahX\\MeprAV\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tyler Gilbert"
+        }
+    ],
+    "license": "GPL-2.0-or-later",
+    "minimum-stability": "stable"
+}

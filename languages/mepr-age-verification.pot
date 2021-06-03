@@ -1,0 +1,111 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MemberPress Age Verification\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-02 21:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2\n"
+"X-Domain: mepr-age-verification"
+
+#: app/Views/settings-section.php:2
+msgid "Customize the MemberPress Age Verification settings."
+msgstr ""
+
+#: app/Controllers/SettingsController.php:343
+msgid "Due to your age, you're not eligible to register."
+msgstr ""
+
+#: app/Controllers/SettingsController.php:55
+msgid "Enable Age Verification"
+msgstr ""
+
+#: app/Controllers/SettingsController.php:90
+msgid "Error Message"
+msgstr ""
+
+#: app/Controllers/SettingsController.php:177
+msgid "Error message cannot be empty."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/tylerthedude/"
+msgstr ""
+
+#. Name of the plugin
+#: app/Controllers/AdminController.php:32
+#: app/Controllers/AdminController.php:33 app/Views/options-page.php:3
+msgid "MemberPress Age Verification"
+msgstr ""
+
+#: mepr-age-verification.php:38
+msgid "MemberPress Age Verification requires PHP 7.2.0 or later."
+msgstr ""
+
+#: app/Controllers/SettingsController.php:114
+msgid "Memberships"
+msgstr ""
+
+#: app/Controllers/SettingsController.php:163
+msgid "Memberships cannot be empty."
+msgstr ""
+
+#: app/Controllers/SettingsController.php:341
+msgid "mepr_birthday"
+msgstr ""
+
+#: app/Controllers/SettingsController.php:172
+msgid "Minimum age cannot be empty."
+msgstr ""
+
+#: app/Controllers/SettingsController.php:78
+msgid "Minimum Age To Signup (Years)"
+msgstr ""
+
+#: app/Controllers/SettingsController.php:66
+msgid "Name Of Slug"
+msgstr ""
+
+#. Description of the plugin
+msgid "Restrict member signup based on the member's age."
+msgstr ""
+
+#: app/Controllers/SettingsController.php:35
+msgid "Settings"
+msgstr ""
+
+#: app/Controllers/SettingsController.php:167
+msgid "Slug name cannot be empty."
+msgstr ""
+
+#: app/Controllers/SettingsController.php:194
+msgid "Slug name must be a date field."
+msgstr ""
+
+#: app/Controllers/SettingsController.php:202
+msgid "Slug name provided is not a valid field in MemberPress."
+msgstr ""
+
+#. Author of the plugin
+msgid "Tyler Gilbert"
+msgstr ""
+
+#: app/Controllers/SettingsController.php:102
+msgid "Verification Error Message"
+msgstr ""
+
+#: app/Controllers/SettingsController.php:182
+msgid "Verification error message cannot be empty."
+msgstr ""
+
+#: app/Controllers/SettingsController.php:344
+msgid "You must fill out your birthday."
+msgstr ""
